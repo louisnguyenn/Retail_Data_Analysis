@@ -28,6 +28,3 @@ This project is designed to demonstrate SQL skills and techniques typically used
 2. **Set Up the Database**: Run the SQL scripts provided in the `database_setup.sql` file to create and populate the database.
 3. **Run the Queries**: Use the SQL queries provided in the `analysis_queries.sql` file to perform your analysis.
 4. **Explore and Modify**: Feel free to modify the queries to explore different aspects of the dataset or answer additional business questions.
-
-## Credits
-Zero Analyst for the tutorial and dataset
